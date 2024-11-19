@@ -1,0 +1,1 @@
+This is a change made to file 1 in the GMCGIT folder
